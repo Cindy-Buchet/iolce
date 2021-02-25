@@ -13,13 +13,13 @@ J’ai aussi mit des mots en valeur pour faciliter la lecture à l’utilisateur
 # Mes choix
 ## Les typographies
 J’ai prit pour les titres « Oswald » et pour les textes « Droid Sans » c’est deux polices facilement lisible, elles s’assemblent bien toutes les deux. Dans une ligne du temps, il faut savoir correctement lire. Etant donné que c’est deux polices sans serif, j’ai mit les titres en valeur avec du gras et une autre couleur qui ressort bien par rapport au fond du site.
-![Typographies](https://image.noelshack.com/fichiers/2019/24/3/1560348960-1-wgi4-ladazcdnuzlcazqdg.jpeg)
+![Typographies](https://miro.medium.com/max/700/1*xwPkXyPaL1OKZA8VQf2XBA.jpeg)
 
 ## Les couleurs
 J’ai prit de l’orange parce que c’est une couleur qui ramène de la chaleur, du dynamisme dans le site, elle ressortait très bien avec mon fond.
 
 Le bleu lui, fait penser à l’informatique (mon sujet parle de l’histoire du design web), il ramène de la fraîcheur sur le site, car il en fallait bien avec le fond quasi dans les tons noir. Le bleu fait aussi penser au voyage, ici il fait donc penser au voyage dans le temps, car on retourne au début de l’histoire du design web.
-![Les couleurs](https://image.noelshack.com/fichiers/2019/24/3/1560348960-1-xwpkxypal1okza8vqf2xba.jpeg)
+![Les couleurs](https://miro.medium.com/max/700/1*xwPkXyPaL1OKZA8VQf2XBA.jpeg)
 
 ## Mes problèmes rencontrés
 Ayant difficile en anglais, j’ai vraiment eu peur d’avoir du mal à comprendre la vidéo. Mais au final, j’ai pu facilement comprendre car il parle par étape, on remarquait vite les dates et donc les informations importantes à prendre note.
